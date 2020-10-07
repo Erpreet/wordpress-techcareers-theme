@@ -24,7 +24,7 @@ Archive Template:
 
 <p>
 <a href="<?php the_permalink(); ?>">
-Read money_format
+Read more
 </a>
 </p>
 </article>
