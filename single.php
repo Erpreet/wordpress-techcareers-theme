@@ -10,6 +10,7 @@
      </time>
 </p>
 
+<!-- Post -->
 <h3>Post Categories</h3>
 <ul>
 <?php
